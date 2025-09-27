@@ -25,7 +25,7 @@ MANIFEST
 # venv/  # Include venv
 env/
 ENV/
-# .venv/  # Include .venv
+.venv/  # Include .venv
 
 # IDE
 # .vscode/  # Include .vscode
