@@ -22,13 +22,13 @@ wheels/
 MANIFEST
 
 # Virtual environments
-venv/
+# venv/  # Include venv
 env/
 ENV/
-.venv/
+# .venv/  # Include .venv
 
 # IDE
-.vscode/
+# .vscode/  # Include .vscode
 .idea/
 
 # OS
